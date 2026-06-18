@@ -206,13 +206,13 @@
 	},
 
 	"elements": {
-		"Ga": {},
-		"Al": {},
-		"In": {},
-		"As": {},
-		"P": {},
-		"Sb": {},
-		"N": {}
+		"Ga": {"type": "cation"},
+    	"Al": {"type": "cation"},
+    	"In": {"type": "cation"},
+    	"As": {"type": "anion"},
+    	"P": {"type": "anion"},
+    	"Sb": {"type": "anion"},
+    	"N": {"type": "anion"}
 	},
 	
 	"bowing": {
